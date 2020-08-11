@@ -1,0 +1,16 @@
+C:\Users\Никита Будаев\Desktop\Covid-Counter\Covid Counter\Covid Counter\bin\Debug\Covid Counter.exe.config
+C:\Users\Никита Будаев\Desktop\Covid-Counter\Covid Counter\Covid Counter\bin\Debug\Covid Counter.exe
+C:\Users\Никита Будаев\Desktop\Covid-Counter\Covid Counter\Covid Counter\bin\Debug\Covid Counter.pdb
+C:\Users\Никита Будаев\Desktop\Covid-Counter\Covid Counter\Covid Counter\bin\Debug\AngleSharp.dll
+C:\Users\Никита Будаев\Desktop\Covid-Counter\Covid Counter\Covid Counter\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Никита Будаев\Desktop\Covid-Counter\Covid Counter\Covid Counter\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Никита Будаев\Desktop\Covid-Counter\Covid Counter\Covid Counter\bin\Debug\AngleSharp.xml
+C:\Users\Никита Будаев\Desktop\Covid-Counter\Covid Counter\Covid Counter\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Никита Будаев\Desktop\Covid-Counter\Covid Counter\Covid Counter\obj\Debug\Covid Counter.csprojAssemblyReference.cache
+C:\Users\Никита Будаев\Desktop\Covid-Counter\Covid Counter\Covid Counter\obj\Debug\Covid_Counter.Form1.resources
+C:\Users\Никита Будаев\Desktop\Covid-Counter\Covid Counter\Covid Counter\obj\Debug\Covid_Counter.Properties.Resources.resources
+C:\Users\Никита Будаев\Desktop\Covid-Counter\Covid Counter\Covid Counter\obj\Debug\Covid Counter.csproj.GenerateResource.cache
+C:\Users\Никита Будаев\Desktop\Covid-Counter\Covid Counter\Covid Counter\obj\Debug\Covid Counter.csproj.CoreCompileInputs.cache
+C:\Users\Никита Будаев\Desktop\Covid-Counter\Covid Counter\Covid Counter\obj\Debug\Covid Counter.csproj.CopyComplete
+C:\Users\Никита Будаев\Desktop\Covid-Counter\Covid Counter\Covid Counter\obj\Debug\Covid Counter.exe
+C:\Users\Никита Будаев\Desktop\Covid-Counter\Covid Counter\Covid Counter\obj\Debug\Covid Counter.pdb
